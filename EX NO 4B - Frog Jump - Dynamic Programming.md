@@ -27,13 +27,12 @@ A single integer – number of distinct ways to reach step n.
 
 5.Output dp[n], which represents the total number of ways the frog can reach the top.
 
+```  
+Developed by: Dhanush A
+Register Number: 212222220010 
+```
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
 import java.util.Scanner;
 
 public class FrogJump {
