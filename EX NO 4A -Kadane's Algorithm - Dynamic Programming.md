@@ -30,15 +30,15 @@ Constraints:
 4.Find the minimum subarray sum and compute the circular sum as totalSum - minSum.
 
 5.Return the maximum of maxSum and circularSum (handle all-negative case separately).
-   
+```  
 
+Developed by: Dhanush A
+Register Number: 212222220010 
+
+```
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
+
 import java.util.*;
 
 public class SolarEnergyMaximizer {
