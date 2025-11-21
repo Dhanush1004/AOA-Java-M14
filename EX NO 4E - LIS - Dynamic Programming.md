@@ -20,14 +20,13 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 
 5.After filling the DP array, the maximum value in dp[] is the length of the Longest Increasing Subsequence.
   
+```
+Developed by: A.Dhanush
+Register Number: 212222220010 
+```
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
