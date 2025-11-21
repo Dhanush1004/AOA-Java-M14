@@ -28,16 +28,13 @@ text1 and text2 consist of only lowercase English characters.
 
 5.After filling the table, dp[m][n] gives the length of the Longest Common Subsequence.
 
-
+```
+Developed by: A.Dhanush
+Register Number: 212222220010 
+```
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
-
 import java.util.Scanner;
 
 public class Solution {
