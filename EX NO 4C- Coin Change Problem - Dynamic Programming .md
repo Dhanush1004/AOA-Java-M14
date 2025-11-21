@@ -21,15 +21,13 @@ If coin <= i, update dp[i] = min(dp[i], dp[i - coin] + 1).
 
 5.Return dp[amount] if it’s valid; otherwise, return -1 (not possible).
   
+```  
+Developed by: Dhanush A
+Register Number: 212222220010 
+```
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
-
 import java.util.*;
 
 public class Solution {
